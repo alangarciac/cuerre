@@ -18,7 +18,8 @@ Java 8 +
 Clone this repository.
 Go to main folder.
 
-Run mvn spring-boot:run
+### Run 
+* mvn spring-boot:run
 
 ## Contributing
 
